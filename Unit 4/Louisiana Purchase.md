@@ -1,0 +1,3 @@
+- The 1803 purchase of French territory west of the Mississippi River that stretched from the Gulf of Mexico to Canada and nearly doubled the size of the United States. 
+- Was bought from Napoleon by [Thomas Jefferson](Thomas%20Jefferson.md).
+- The purchase required President [Thomas Jefferson](Thomas%20Jefferson.md) to exercise powers not explicitly granted to him by the Constitution. 

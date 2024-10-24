@@ -1,5 +1,5 @@
-[[Thomas Jefferson]] - 3rd president of the United States. Enacted the [[Embargo Act of 1807]]. Authorized the [[Louisiana Purchase]] and doubled the territory of the US which meant future conflicts over westward expansion. 
-Democratic-Republican  
+[Thomas Jefferson](Thomas%20Jefferson.md) - 3rd president of the United States. Enacted the [Embargo Act of 1807](Embargo%20Act%20of%201807.md). Authorized the [Louisiana Purchase](Louisiana%20Purchase.md) and doubled the territory of the US which meant future conflicts over westward expansion. 
+[Democratic-Republican](Democratic-Republican.md) 
 Federalist  
 Marbury v. Madison  
 John Marshall  

@@ -1,0 +1,4 @@
+- Political party in the first party system that was anti-federalist, i.e. smaller national government, strict construction, agrarian rather than industrial in nature.
+- After 1800 the federalist party collapsed which meant that the Democratic-Republicans were dominant. 
+	- This was called "The Era of Good Feelings."
+- 
