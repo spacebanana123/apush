@@ -1,10 +1,10 @@
 [Thomas Jefferson](Thomas%20Jefferson.md) - 3rd president of the United States. Enacted the [Embargo Act of 1807](Embargo%20Act%20of%201807.md). Authorized the [Louisiana Purchase](Louisiana%20Purchase.md) and doubled the territory of the US which meant future conflicts over westward expansion. 
 [Democratic-Republican](Democratic-Republican.md) 
-Federalist  
-Marbury v. Madison  
-John Marshall  
+[Federalists](Federalists.md)
+[Marbury v. Madison](Marbury%20v.%20Madison.md)
+[John Marshall](John%20Marshall.md)
 [Louisiana Purchase](Louisiana%20Purchase.md)
-Embargo of 1807  
+[Embargo Act of 1807](Embargo%20Act%20of%201807.md)
 Battle of Tippecanoe  
 Treaty of Ghent  
 McCulloch v. Maryland  

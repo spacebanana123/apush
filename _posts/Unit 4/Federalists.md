@@ -1,0 +1,3 @@
+- Funding of the old Revolutionary War debt and the assumption of state debts, passage of excise laws, creation of a central bank, maintenance of a tariff system, and favorable treatment of American shipping
+- Lead by Alexander Hamilton.
+- Collapsed after 1800.
