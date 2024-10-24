@@ -1,0 +1,1 @@
+- British were trading with Shawnee - providing them with guns and supplies for war.

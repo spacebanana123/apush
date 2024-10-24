@@ -1,0 +1,10 @@
+- The chief justice of the SCOTUS appointed by John Adams. 
+- Made several influential decisions expanding the powers of the court, property rights, and federal supremacy. 
+- Judicial Authority:
+	- [Marbury v. Madison](Marbury%20v.%20Madison.md) - Asserts judicial review
+- Property Rights:
+	- **Fletcher v. Peck** - interpreted the contract clause, which prohibited the passage of any laws "impairing the obligation of contracts." Ruled that the Georgia legislative grant was a contract that could not be revoked, which limited the powers of the states; bolstered property rights; and promoted national investment. 
+	- **Dartmouth College v. Woodward** - Dartmouth College was a private institution created by a royal charter issued by King George III. In 1816, New Hampshire’s Republican legislature enacted a statute converting the school into a public university. Court held that royal charter was an unalterable contract which meant it must be enforced.
+- National Supremacy:
+	- [McCulloch v. Maryland](McCulloch%20v.%20Maryland.md) - interprets Constitution to give broad powers to national government.
+	- **Gibbons v. Ogden** - struck down a New York law granting a monopoly to Aaron Ogden for steamboat passenger service across the Hudson River to New Jersey. The Constitution gave the federal government authority over interstate commerce, the chief justice sided with Thomas Gibbons, who held a federal license to run steamboats between the two states.

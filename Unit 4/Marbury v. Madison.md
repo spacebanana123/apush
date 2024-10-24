@@ -1,0 +1,3 @@
+- A decision of the [Marshall](John%20Marshall.md) Court - 1803.
+- A Supreme Court case that established the principle of judicial review in finding that parts of the Judiciary Act of 1789 were in conflict with the Constitution. 
+- The Supreme Court assumed legal authority to overrule acts of other branches of the government that they find in violation of the Constitution. 
