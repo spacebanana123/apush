@@ -1,0 +1,2 @@
+- Signed on 1814, ends the War of 1812 between the US and British. 
+- It retained the prewar borders of the United States, because negotiators on both sides realized that their war goals were not worth prolonging warfare.

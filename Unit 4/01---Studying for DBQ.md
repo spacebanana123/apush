@@ -5,11 +5,11 @@
 [John Marshall](John%20Marshall.md) - John Adam's appointed him as chief justice of the SCOTUS.
 [Louisiana Purchase](Louisiana%20Purchase.md) - Jefferson doubles the size of the US by buying new land from Napoleon. Sets off Westward expansion.
 [Embargo Act of 1807](Embargo%20Act%20of%201807.md) - Jefferson enacts because of French and British actions against US ships and bans trade with them. This hurts the US economy massively and ends up getting lifted.
-[Battle of Tippecanoe](Battle%20of%20Tippecanoe.md) -  
-Treaty of Ghent  
+[Battle of Tippecanoe](Battle%20of%20Tippecanoe.md) - William Henry Harrison, Indiana’s territorial governor, attacks Shawnee Indians and their allies, who were mobilizing for war. Ends with a victory for the governor, but both sides trade heavy causalities. 
+[Treaty of Ghent](Treaty%20of%20Ghent.md) - Signed on 1814, ends the War of 1812 between the US and British. It retained the prewar borders of the United States.
 [McCulloch v. Maryland](McCulloch%20v.%20Maryland.md) - Federal government had the authority to establish a national bank through the necessary and proper clause, and the states can not tax it.
-Adams-Onis Treaty  
-Monroe Doctrine  
+[Adams-Onis Treaty](Adams-Onis%20Treaty.md) - Quincy Adams negotiates a treaty with Spain to give us Florida, recognize the Spanish claim to Texas, and compromise on the western boundary for Louisiana.
+[Monroe Doctrine](Monroe%20Doctrine.md) - The 1823 declaration by President James Monroe that the Western Hemisphere was closed to any further colonization or interference by European powers. In exchange, Monroe pledged that the United States would not become involved in European struggles. 
 Little Turtle  
 Tecumseh  
 Henry Clay  

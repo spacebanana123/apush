@@ -1,1 +1,6 @@
+- An attack on Shawnee Indians and their allies at Prophetstown on the Tippecanoe River in 1811 by American forces headed by William Henry Harrison, Indiana’s territorial governor. 
 - British were trading with Shawnee - providing them with guns and supplies for war.
+- Shawnee war chief Tecumseh revived the Western Confederacy in 1809
+	- His brother prophet Tenskwatawa provided the ideological backing. 
+	- Many warriors from other native groups flocked to Tenskwatawa’s holy village, Prophetstown, in the Indiana Territory.
+- The governor’s troops traded heavy casualties with the confederacy’s warriors and then destroyed the holy village. 
