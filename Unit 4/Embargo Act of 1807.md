@@ -1,0 +1,6 @@
+- Resulted from the Napoleonic Wars
+- France and England were seizing US ships. 
+- British Navy impressed American sails for the US navy. 
+- This caused [Jefferson](Thomas%20Jefferson.md) to sign the Embargo Act of 1807.
+- Hurt US economy more than British and French, and business activity declined by 75% in only one year.
+- At the end of the presidency, Jefferson lifted the Embargo because it was unpopular and failed to be effective.

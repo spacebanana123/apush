@@ -1,0 +1,4 @@
+- Set an idea of agrarian ideal, where small independent farmer was idealized.
+- Decreased the size of government and taxation 
+- Enacted the [Embargo Act of 1807](Embargo%20Act%20of%201807.md)
+- Made the [Louisiana Purchase](Louisiana%20Purchase.md)
